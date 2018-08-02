@@ -6,7 +6,10 @@ import java.util.Scanner;
 
 public class TableTime {
      
-     
+     //this code get data from manager facullty or The rigester and output many time table to him for docors or helping docotrs 
+     //الكود دا ي عمك بياخد البيانات من المدير ولا المسجل وبقوم بطلع ليو عده جداول للدكاتره ديل ولا مساعدين الدكاتره 
+//ف شنو الدكتور بكون عندو عده خيارات لو الجدول دا م عجبو اشوف الغيرو وكده يعني
+     //ما فيو قاعده بيانات قروض ساي هههههه
     
       Scanner in =new Scanner (System.in);
      
